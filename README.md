@@ -64,7 +64,7 @@ $ npm init || npm i hardhat
 $ npx hardhat test
 
 
-Made with :heart: by <a href="https://github.com/PrakharSharma888" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/PrakharSharma888" target="_blank">Prakhar Sharma</a>
 
 &#xa0;
 
